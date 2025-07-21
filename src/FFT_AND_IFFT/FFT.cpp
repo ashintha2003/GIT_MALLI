@@ -18,7 +18,7 @@ void FFT(){
       
         if(i == FFT_ITERATION){
             if(i == MAX_ITERATION){
-                FFT_ITERATION = 5;
+                FFT_ITERATION = 15;
             }else{
                 FFT_ITERATION = FFT_ITERATION + 1;
             }
@@ -181,3 +181,5 @@ void INVERSE_FFT(){
 
     
 }
+
+
