@@ -1,0 +1,8 @@
+#ifndef MAGNITUDE_SPECTRUM_H
+#define MAGNITUDE_SPECTRUM_H
+
+#include "GLOBAL.h"
+
+void MAGNITUDE_SPECTRUM();
+
+#endif 
